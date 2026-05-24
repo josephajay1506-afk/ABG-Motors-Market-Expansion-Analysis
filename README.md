@@ -126,7 +126,7 @@ The following preprocessing techniques were applied:
 
 ✅ Missing Value Analysis  
 ✅ Gender Encoding  
-✅ Feature Scaling using StandardScaler  
+✅ Feature Scaling using Scikit-learn StandardScaler  
 ✅ Feature Selection  
 ✅ Data Type Conversion  
 
