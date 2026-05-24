@@ -243,24 +243,35 @@ An interactive Tableau dashboard was developed to visualize:
 
 ---
 
-# 🖼️ Dashboard Preview
+# 📸 Dashboard Visualizations
 
-## 📌 Customer Age Distribution
-Analyzes customer participation across age groups.
+## 📌 Customer Age Distribution Analysis
 
-## 📌 Purchase Distribution
-Compares buyers and non-buyers.
-
-## 📌 Gender vs Purchase Analysis
-Shows purchasing behavior across genders.
-
-## 📌 Income Distribution Analysis
-Highlights income influence on purchasing behavior.
-
-## 📌 Indian Market Prediction
-Visualizes predicted potential customers in India.
+![Customer Age Distribution](Screenshots/Customer_Age_Distribution.png)
 
 ---
+
+## 📌 Purchase Distribution Analysis
+
+![Purchase Distribution](Screenshots/Purchase_Distribution.png)
+
+---
+
+## 📌 Gender vs Purchase Analysis
+
+![Gender vs Purchase](Screenshots/Gender_vs_Purchase.png)
+
+---
+
+## 📌 Income Distribution Analysis
+
+![Income Distribution](Screenshots/Income_Distribution.png)
+
+---
+
+## 📌 Indian Market Prediction Analysis
+
+![Indian Market Prediction](Screenshots/Indian_Market_Prediction.png)
 
 # 🚀 Key Achievements
 
