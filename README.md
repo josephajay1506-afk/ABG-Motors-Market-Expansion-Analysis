@@ -247,13 +247,13 @@ An interactive Tableau dashboard was developed to visualize:
 
 ## 📌 Customer Age Distribution Analysis
 
-![Customer Age Distribution](Screenshots/Customer Age Distribution.png)
+![Customer Age Distribution](Screenshots/Customer_Age_Distribution.png)
 
 ---
 
 ## 📌 Purchase Distribution Analysis
 
-![Purchase Distribution](Screenshots/Purchase Distribution.png)
+![Purchase Distribution](Screenshots/Purchase_Distribution.png)
 
 ---
 
