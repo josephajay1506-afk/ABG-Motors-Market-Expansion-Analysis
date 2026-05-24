@@ -243,36 +243,6 @@ An interactive Tableau dashboard was developed to visualize:
 
 ---
 
-# 📸 Dashboard Visualizations
-
-## 📌 Customer Age Distribution Analysis
-
-![Customer Age Distribution](Screenshots/Customer_Age_Distribution.png)
-
----
-
-## 📌 Purchase Distribution Analysis
-
-![Purchase Distribution](Screenshots/Purchase_Distribution.png)
-
----
-
-## 📌 Gender vs Purchase Analysis
-
-![Gender vs Purchase](Screenshots/Gender_vs_Purchase.png)
-
----
-
-## 📌 Income Distribution Analysis
-
-![Income Distribution](Screenshots/Income_Distribution.png)
-
----
-
-## 📌 Indian Market Prediction Analysis
-
-![Indian Market Prediction](Screenshots/Indian_Market_Prediction.png)
-
 # 🚀 Key Achievements
 
 ✅ Built an end-to-end Machine Learning pipeline  
